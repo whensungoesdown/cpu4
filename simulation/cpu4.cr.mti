@@ -1,0 +1,25 @@
+D:/fpgaprjs/cpu4/hdl/cpu4_regfile.v {1 {vlog -work work +incdir+D:/fpgaprjs/cpu4/hdl D:/fpgaprjs/cpu4/hdl/cpu4_regfile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cpu4_regfile
+
+Top level modules:
+	cpu4_regfile
+
+} {} {}} D:/fpgaprjs/cpu4/testbenches/cpu4_regfile_tb.v {1 {vlog -work work D:/fpgaprjs/cpu4/testbenches/cpu4_regfile_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cpu4_regfile_tb
+
+Top level modules:
+	cpu4_regfile_tb
+
+} {} {}} D:/fpgaprjs/cpu4/hdl/defines.v {1 {vlog -work work +incdir+D:/fpgaprjs/cpu4/hdl D:/fpgaprjs/cpu4/hdl/defines.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} D:/fpgaprjs/cpu4/hdl/dffs.v {1 {vlog -work work +incdir+../hdl D:/fpgaprjs/cpu4/hdl/dffs.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sirv_gnrl_dffl
+
+Top level modules:
+	sirv_gnrl_dffl
+
+} {} {}}
