@@ -26,7 +26,7 @@ module cpu4_regfile (
 		if (i == 0)
 		begin :x0
 			assign rf_wen[i] = 1'b0;
-			assign rf_r[i] = `CPU4_XLEN'b11111111111111111111111111111111;
+			assign rf_r[i] = 1'b0;
 		end
 		else begin : other_regs
 			assign rf_wen[i] = rd_wen & (rd_idx === i);
