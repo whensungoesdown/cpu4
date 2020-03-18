@@ -5,6 +5,13 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	cpu4_regfile
 
+} {} {}} D:/fpgaprjs/cpu4/systhesis/cpu4_ram.v {1 {vlog -work work D:/fpgaprjs/cpu4/systhesis/cpu4_ram.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cpu4_ram
+
+Top level modules:
+	cpu4_ram
+
 } {} {}} D:/fpgaprjs/cpu4/hdl/defines.v {1 {vlog -work work +incdir+D:/fpgaprjs/cpu4/hdl D:/fpgaprjs/cpu4/hdl/defines.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
