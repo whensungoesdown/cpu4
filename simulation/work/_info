@@ -18,27 +18,27 @@ r1
 Z9 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_adder.v|
 Z10 o-work work -O0
 Z11 !s92 -work work +incdir+D:/fpgaprjs/cpu4/hdl -O0
-Z12 !s108 1584994931.303000
+Z12 !s108 1585422380.018000
 Z13 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_adder.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcpu4_alu
-Z14 !s100 m>XSA^J0QdmfW_2?4g>i50
-Z15 I=^cT;K_lfeKM^f:b7lzG02
-Z16 V7Y7AEB;H96<A6m1oV084<3
+Z14 IM^LChU]_YcGXInF;g:JDg2
+Z15 V7Y7AEB;H96<A6m1oV084<3
 R4
-Z17 w1584947243
-Z18 8D:/fpgaprjs/cpu4/hdl/cpu4_alu.v
-Z19 FD:/fpgaprjs/cpu4/hdl/cpu4_alu.v
+Z16 w1585422342
+Z17 8D:/fpgaprjs/cpu4/hdl/cpu4_alu.v
+Z18 FD:/fpgaprjs/cpu4/hdl/cpu4_alu.v
 L0 3
 R8
 r1
 31
-Z20 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_alu.v|
+Z19 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_alu.v|
 R10
 R11
-Z21 !s108 1584994931.599000
+Z20 !s100 iQg]6lNE<4gBRY[>V7Ojg0
+Z21 !s108 1585422380.258000
 Z22 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_alu.v|
 !i10b 1
 !s85 0
@@ -58,17 +58,17 @@ r1
 Z29 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_aludec.v|
 R10
 R11
-Z30 !s108 1584994931.854000
+Z30 !s108 1585422380.478000
 Z31 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_aludec.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcpu4_controller
-Z32 !s100 MV`OCFj[SiTQEEoMOmCh23
-Z33 IiH`^oKm]f3ATL__W6gJ<C1
-Z34 VhCWM5deS@02?VHNEOB14`1
+Z32 !s100 FJMbcaVREn4<A_GjkTk]`0
+Z33 I0n8Ti5nP<:JTTP7md=T`A2
+Z34 Vig?aUkEBl`aE<Rz7PIj<o1
 R4
-Z35 w1584744669
+Z35 w1585418478
 Z36 8D:/fpgaprjs/cpu4/hdl/cpu4_controller.v
 Z37 FD:/fpgaprjs/cpu4/hdl/cpu4_controller.v
 L0 3
@@ -78,7 +78,7 @@ r1
 Z38 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_controller.v|
 R10
 R11
-Z39 !s108 1584994932.139000
+Z39 !s108 1585422380.697000
 Z40 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_controller.v|
 !i10b 1
 !s85 0
@@ -98,17 +98,17 @@ r1
 Z47 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/core.v|
 R10
 R11
-Z48 !s108 1584994931.062000
+Z48 !s108 1585422379.780000
 Z49 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/core.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcpu4_datapath
-Z50 !s100 7R@mV_8:l@Eh0Qz]=f60J3
-Z51 I6^S<e7702o;2>hfa_a8S[2
+Z50 !s100 TQHiGFEP<S[H`DR9g^[OO2
+Z51 I]W_=c>lXZ8k8I5QFIKdPz0
 Z52 V:4gk1OO5d7IRa2DFDbV3j3
 R4
-Z53 w1584948004
+Z53 w1585363310
 Z54 8D:/fpgaprjs/cpu4/hdl/cpu4_datapath.v
 Z55 FD:/fpgaprjs/cpu4/hdl/cpu4_datapath.v
 L0 3
@@ -118,17 +118,17 @@ r1
 Z56 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_datapath.v|
 R10
 R11
-Z57 !s108 1584994932.490000
+Z57 !s108 1585422380.935000
 Z58 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_datapath.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcpu4_maindec
-Z59 !s100 SdaoTlce6LlF3@zf;Lan;3
-Z60 Ia_UEYZoW6;=@84@0;QZg_1
+Z59 !s100 e;JHFLZPW<V7PDC_zOij92
+Z60 I:DhoIGl?7PUKU9J@`cRK`3
 Z61 VR8V9IEJ4>TZ4XP[j0<>a`3
 R4
-Z62 w1584861149
+Z62 w1585417974
 Z63 8D:/fpgaprjs/cpu4/hdl/cpu4_maindec.v
 Z64 FD:/fpgaprjs/cpu4/hdl/cpu4_maindec.v
 L0 3
@@ -138,7 +138,7 @@ r1
 Z65 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_maindec.v|
 R10
 R11
-Z66 !s108 1584994932.742000
+Z66 !s108 1585422381.168000
 Z67 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_maindec.v|
 !i10b 1
 !s85 0
@@ -158,184 +158,224 @@ r1
 Z74 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_mux2.v|
 R10
 R11
-Z75 !s108 1584994933.021000
+Z75 !s108 1585422381.423000
 Z76 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_mux2.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcpu4_ram
 !i10b 1
-!s100 d=U=VTFAfnIaidhV:6;J70
-IjE7P;5=XMZ6eDPYSCZzX>3
-Z77 VoDe_=1A]gSUNKOmUE0cla3
+Z77 !s100 d=U=VTFAfnIaidhV:6;J70
+Z78 IjE7P;5=XMZ6eDPYSCZzX>3
+Z79 VoDe_=1A]gSUNKOmUE0cla3
 R4
-w1584994869
-Z78 8D:/fpgaprjs/cpu4/systhesis/cpu4_ram.v
-Z79 FD:/fpgaprjs/cpu4/systhesis/cpu4_ram.v
+Z80 w1584994869
+Z81 8D:/fpgaprjs/cpu4/systhesis/cpu4_ram.v
+Z82 FD:/fpgaprjs/cpu4/systhesis/cpu4_ram.v
 L0 39
 R8
 r1
 !s85 0
 31
-!s108 1584994936.161000
+!s108 1585422389.400000
 !s107 D:/fpgaprjs/cpu4/systhesis/cpu4_ram.v|
-Z80 !s90 -reportprogress|300|-work|work|D:/fpgaprjs/cpu4/systhesis/cpu4_ram.v|
+Z83 !s90 -reportprogress|300|-work|work|D:/fpgaprjs/cpu4/systhesis/cpu4_ram.v|
 !s101 -O0
 R10
 vcpu4_ram_tb
-Z81 !s100 kiMIo477WjLXC1Wl@<:<X2
-Z82 I[Z<ll4[dLzI_e;C5QzRMU1
-Z83 V;7lYlb@EKa2XmOlIU==RU2
+Z84 !s100 IY7OljTPoLlTl3>7bXZO<1
+Z85 IB70Rn=4eCOdoZC?56lmH?0
+Z86 V;7lYlb@EKa2XmOlIU==RU2
 R4
-Z84 w1584575930
-Z85 8D:/fpgaprjs/cpu4/testbenches/cpu4_ram_tb.v
-Z86 FD:/fpgaprjs/cpu4/testbenches/cpu4_ram_tb.v
+Z87 w1585377502
+Z88 8D:/fpgaprjs/cpu4/testbenches/cpu4_ram_tb.v
+Z89 FD:/fpgaprjs/cpu4/testbenches/cpu4_ram_tb.v
 L0 1
 R8
 r1
 31
-Z87 !s90 -reportprogress|300|-work|work|D:/fpgaprjs/cpu4/testbenches/cpu4_ram_tb.v|
+Z90 !s90 -reportprogress|300|-work|work|D:/fpgaprjs/cpu4/testbenches/cpu4_ram_tb.v|
 R10
-Z88 !s108 1584994935.038000
-Z89 !s107 D:/fpgaprjs/cpu4/testbenches/cpu4_ram_tb.v|
+Z91 !s108 1585422383.261000
+Z92 !s107 D:/fpgaprjs/cpu4/testbenches/cpu4_ram_tb.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcpu4_regfile
-Z90 !s100 BkcTlEm86W1^R>7T;DzD<2
-Z91 IZe_5I>8>kfH1jXoJ7Z9@42
-Z92 VhJS[eOS?Q4<fRUDd^Y[B^1
+Z93 !s100 ]BeNajILF=dX<J_^4dJk23
+Z94 I6AMiH:Pn1l`435]W`c4ZJ2
+Z95 VhJS[eOS?Q4<fRUDd^Y[B^1
 R4
-R84
-Z93 8D:/fpgaprjs/cpu4/hdl/cpu4_regfile.v
-Z94 FD:/fpgaprjs/cpu4/hdl/cpu4_regfile.v
+Z96 w1585421119
+Z97 8D:/fpgaprjs/cpu4/hdl/cpu4_regfile.v
+Z98 FD:/fpgaprjs/cpu4/hdl/cpu4_regfile.v
 L0 3
 R8
 r1
 31
-Z95 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_regfile.v|
+Z99 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_regfile.v|
 R10
 R11
-Z96 !s108 1584994933.389000
-Z97 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_regfile.v|
+Z100 !s108 1585422381.642000
+Z101 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_regfile.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcpu4_regfile_tb
-Z98 !s100 =]80I`JD5ifEg7FahHbS91
-Z99 IWQnnI;7V4:6YG<iX[DKMN1
-Z100 VJ54F>I8P[7U@I=f2FUPh[0
+Z102 !s100 =]80I`JD5ifEg7FahHbS91
+Z103 IWQnnI;7V4:6YG<iX[DKMN1
+Z104 VJ54F>I8P[7U@I=f2FUPh[0
 R4
-R84
-Z101 8D:/fpgaprjs/cpu4/testbenches/cpu4_regfile_tb.v
-Z102 FD:/fpgaprjs/cpu4/testbenches/cpu4_regfile_tb.v
+Z105 w1584575930
+Z106 8D:/fpgaprjs/cpu4/testbenches/cpu4_regfile_tb.v
+Z107 FD:/fpgaprjs/cpu4/testbenches/cpu4_regfile_tb.v
 L0 1
 R8
 r1
 31
-Z103 !s90 -reportprogress|300|-work|work|D:/fpgaprjs/cpu4/testbenches/cpu4_regfile_tb.v|
+Z108 !s90 -reportprogress|300|-work|work|D:/fpgaprjs/cpu4/testbenches/cpu4_regfile_tb.v|
 R10
-Z104 !s108 1584994935.344000
-Z105 !s107 D:/fpgaprjs/cpu4/testbenches/cpu4_regfile_tb.v|
+Z109 !s108 1585422385.905000
+Z110 !s107 D:/fpgaprjs/cpu4/testbenches/cpu4_regfile_tb.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcpu4_signext
-Z106 !s100 fj6HZ:n9X8D9DW]Fl1Ijf1
-Z107 I?SF17_7?zG`D^L;1XXOFd1
-Z108 V[VT6WoU4[3SUO]SXGA7NC0
+Z111 !s100 fj6HZ:n9X8D9DW]Fl1Ijf1
+Z112 I?SF17_7?zG`D^L;1XXOFd1
+Z113 V[VT6WoU4[3SUO]SXGA7NC0
 R4
-Z109 w1584924573
-Z110 8D:/fpgaprjs/cpu4/hdl/cpu4_signext.v
-Z111 FD:/fpgaprjs/cpu4/hdl/cpu4_signext.v
+Z114 w1584924573
+Z115 8D:/fpgaprjs/cpu4/hdl/cpu4_signext.v
+Z116 FD:/fpgaprjs/cpu4/hdl/cpu4_signext.v
 L0 3
 R8
 r1
 31
-Z112 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_signext.v|
+Z117 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_signext.v|
 R10
 R11
-Z113 !s108 1584994933.628000
-Z114 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_signext.v|
+Z118 !s108 1585422381.851000
+Z119 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_signext.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcpu4_sl2
-Z115 !s100 E5OiDoSDSiBja8M0304<>2
-Z116 IB7RNaTMZh4[nXS_^OU_U@0
-Z117 V[GahIEnTcMz?Yki[4eP1o1
+Z120 !s100 E5OiDoSDSiBja8M0304<>2
+Z121 IB7RNaTMZh4[nXS_^OU_U@0
+Z122 V[GahIEnTcMz?Yki[4eP1o1
 R4
-Z118 w1584924187
-Z119 8D:/fpgaprjs/cpu4/hdl/cpu4_sl2.v
-Z120 FD:/fpgaprjs/cpu4/hdl/cpu4_sl2.v
+Z123 w1584924187
+Z124 8D:/fpgaprjs/cpu4/hdl/cpu4_sl2.v
+Z125 FD:/fpgaprjs/cpu4/hdl/cpu4_sl2.v
 L0 3
 R8
 r1
 31
-Z121 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_sl2.v|
+Z126 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/cpu4_sl2.v|
 R10
 R11
-Z122 !s108 1584994933.955000
-Z123 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_sl2.v|
+Z127 !s108 1585422382.106000
+Z128 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/cpu4_sl2.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vsirv_gnrl_dffl
-Z124 !s100 eRUG8?=G5IioQ```C=K5n1
-Z125 I0TIEPM8O?Pd1ARB>O;oE:3
-Z126 Voc1JOh4K;hm?AodbSXmj92
+Z129 !s100 eRUG8?=G5IioQ```C=K5n1
+Z130 I0TIEPM8O?Pd1ARB>O;oE:3
+Z131 Voc1JOh4K;hm?AodbSXmj92
 R4
-Z127 w1584912753
-Z128 8D:/fpgaprjs/cpu4/hdl/dffs.v
-Z129 FD:/fpgaprjs/cpu4/hdl/dffs.v
+Z132 w1585421086
+Z133 8D:/fpgaprjs/cpu4/hdl/dffs.v
+Z134 FD:/fpgaprjs/cpu4/hdl/dffs.v
 L0 5
 R8
 r1
 31
-Z130 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/dffs.v|
+Z135 !s108 1585422382.519000
+Z136 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/dffs.v|
+Z137 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/dffs.v|
 R10
-Z131 !s92 -work work +incdir+D:/fpgaprjs/cpu4/hdl +incdir+D:/fpgaprjs/cpu4/hdl -O0
-Z132 !s108 1584994934.425000
-Z133 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/dffs.v|
+Z138 !s92 -work work +incdir+D:/fpgaprjs/cpu4/hdl +incdir+D:/fpgaprjs/cpu4/hdl -O0
+!i10b 1
+!s85 0
+!s101 -O0
+vsirv_gnrl_dfflr
+Z139 !s100 9n[o]Q:`]Q^ikEhhHE8a:1
+Z140 ITG;E=37o4[^SUWVL>dHZ`3
+Z141 Vmz7eH>kAgPLUe>OM>Pa>_2
+R4
+R132
+R133
+R134
+L0 23
+R8
+r1
+31
+R135
+R136
+R137
+R10
+R138
+!i10b 1
+!s85 0
+!s101 -O0
+vsirv_gnrl_dffr
+Z142 !s100 Ja68oF:]A<KOgM4h=dh]K3
+Z143 I`U4jHCgHLn1GIjWE1Hki>1
+Z144 VM;7Nl6X49TcZjm9Eo?k=Q3
+R4
+R132
+R133
+R134
+L0 44
+R8
+r1
+31
+R135
+R136
+R137
+R10
+R138
 !i10b 1
 !s85 0
 !s101 -O0
 vtop
-Z134 !s100 fFUDQWnXWZ=kA3k3VYa_<2
-Z135 I`fLUX=<fGU>k9^<5e<Oc;1
-Z136 V3YaIo:iIocAFJJ6g][h:52
+Z145 !s100 `:Wk?N`HjkAHH0cWbdeK01
+Z146 IjK3_AGl[k>ocLcWHb@BeS2
+Z147 V3YaIo:iIocAFJJ6g][h:52
 R4
-Z137 w1584994209
-Z138 8D:/fpgaprjs/cpu4/hdl/top.v
-Z139 FD:/fpgaprjs/cpu4/hdl/top.v
+Z148 w1585380289
+Z149 8D:/fpgaprjs/cpu4/hdl/top.v
+Z150 FD:/fpgaprjs/cpu4/hdl/top.v
 L0 3
 R8
 r1
 31
-Z140 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/top.v|
+Z151 !s90 -reportprogress|300|-work|work|+incdir+D:/fpgaprjs/cpu4/hdl|D:/fpgaprjs/cpu4/hdl/top.v|
 R10
 R11
-Z141 !s108 1584994934.717000
-Z142 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/top.v|
+Z152 !s108 1585422383.022000
+Z153 !s107 D:/fpgaprjs/cpu4/hdl/defines.v|D:/fpgaprjs/cpu4/hdl/top.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vtop_tb
-Z143 !s100 BgQQBLIjbjkO2R[V[l:j02
-Z144 IHXki9<7MgW05hZcBSfkPW3
-Z145 VN7^ihbmI9enFg9D=Qco243
+Z154 !s100 gfR_ZYzf@mHz<c@7dOWAk1
+Z155 I^SSRK:0<ZS:didk_NccD:2
+Z156 VN7^ihbmI9enFg9D=Qco243
 R4
-Z146 w1584993192
-Z147 8D:/fpgaprjs/cpu4/testbenches/top_tb.v
-Z148 FD:/fpgaprjs/cpu4/testbenches/top_tb.v
+Z157 w1585365484
+Z158 8D:/fpgaprjs/cpu4/testbenches/top_tb.v
+Z159 FD:/fpgaprjs/cpu4/testbenches/top_tb.v
 L0 1
 R8
 r1
 31
-Z149 !s90 -reportprogress|300|-work|work|D:/fpgaprjs/cpu4/testbenches/top_tb.v|
+Z160 !s90 -reportprogress|300|-work|work|D:/fpgaprjs/cpu4/testbenches/top_tb.v|
 R10
 !i10b 1
 !s85 0
-Z150 !s108 1584994935.860000
-Z151 !s107 D:/fpgaprjs/cpu4/testbenches/top_tb.v|
+Z161 !s108 1585422387.976000
+Z162 !s107 D:/fpgaprjs/cpu4/testbenches/top_tb.v|
 !s101 -O0

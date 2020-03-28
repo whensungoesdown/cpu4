@@ -31,7 +31,7 @@ module cpu4_regfile (
 		else begin : other_regs
 			assign rf_wen[i] = rd_wen & (rd_idx === i);
 			//assign rf_wen[i] = rd_wen;
-			sirv_gnrl_dffl #(`CPU4_XLEN) rf_dffl (rf_wen[i], rd_data, rf_r[i], clk);
+			sirv_gnrl_dfflr #(`CPU4_XLEN) rf_dffl (rf_wen[i], rd_data, rf_r[i], clk, rst);
 		end
 	end
 	

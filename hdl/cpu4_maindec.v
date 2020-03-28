@@ -14,7 +14,7 @@ module cpu4_maindec(
 
 
     wire [8:0] controls;
-
+/*
     assign  controls[8:0] = {
                                 regwrite, 
                                 regdst, 
@@ -25,6 +25,15 @@ module cpu4_maindec(
                                 jump, 
                                 aluop
                                 };
+*/
+	assign regwrite = controls[8];
+	assign regdst = controls[7];
+	assign alusrc = controls[6];
+	assign branch = controls[5];
+	assign memwrite = controls[4];
+	assign memtoreg = controls[3];
+	assign jump = controls[2];
+	assign aluop = controls[1:0];
 
 	wire op_lw;
 	

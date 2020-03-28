@@ -35,7 +35,7 @@ wire [31:0] result;
 
 
 // next PC logic
-sirv_gnrl_dffl#(32) pcreg(1'b1, pcnext, pc, clk);
+sirv_gnrl_dffr#(32) pcreg(pcnext, pc, clk, reset);
 cpu4_adder pcadd1(pc, 32'b100, pcplus4);
 cpu4_sl2 immsh(signimm, signimmsh);
 cpu4_mux2#(32) pcbrmux(pcplus4, pcbranch, pcsrc, pcnextbr);
@@ -47,7 +47,7 @@ cpu4_regfile rf(instr[25:21], instr[20:16],
 				srca, writedata,
 				regwrite,
 				writereg, result,
-				clk, 1'b0);
+				clk, reset);
 				
 cpu4_mux2#(5) wrmux(instr[20:16], instr[15:11], regdst, writereg);
 cpu4_mux2#(32) resmux(aluout, readdata, memtoreg, result);

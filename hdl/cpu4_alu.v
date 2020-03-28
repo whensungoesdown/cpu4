@@ -15,8 +15,8 @@ module cpu4_alu (
 	wire [31:0] sub_result;
 	
 	
-	assign control_add = (control[2:0] == 3'b000);
-	assign control_sub = (control[2:0] == 3'b001);
+	assign control_add = (control[2:0] == 3'b010);
+	assign control_sub = (control[2:0] == 3'b110);
 	
 	assign add_result = a + b;
 	assign sub_result = a - b;

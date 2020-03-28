@@ -3,7 +3,7 @@
 module cpu4_controller (
     input [5:0] op,
     input [5:0] funct,
-    output zero,
+    input zero,
     output memtoreg,
     output memwrite,
     output pcsrc,
