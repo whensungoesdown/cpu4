@@ -16,7 +16,11 @@ module top (
 	cpu4_core core(clk, reset, pc, instr, memwrite, 
 					dataadr, writedata, readdata);
 					
-	//cpu4_ram ram(pc[9:2], clk, writedata, memwrite, readdata);
-	cpu4_ram ram(pc[9:2], clk, writedata, memwrite, instr);
+	//cpu4_ram ram(pc[9:2], clk, writedata, memwrite, instr);
+	
+	//cpu4_ram_2port ram(pc[9:2], dataadr[9:2], clk, 32'b0, writedata, 1'b0, memwrite, instr, readdata);
+	
+	cpu4_ram iram(pc[9:2], clk, 32'b0, 1'b0, instr);
+	cpu4_ram dram(dataadr[9:2], clk, writedata, memwrite, readdata);
 	
 endmodule

@@ -23,9 +23,14 @@ module top_tb();
     end
 
     // check results
+    always @(posedge clk)
+    begin
+        $display("+");
+    end
+    
     always @(negedge clk)
     begin
-        $display(".");
+        $display("-");
         // if (memwrite) begin
         //     if (dataadr === 84 & writedata === 7) begin
         //         $display("Simulation succeeded");

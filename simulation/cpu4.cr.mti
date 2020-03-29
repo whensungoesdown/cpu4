@@ -12,6 +12,13 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	cpu4_ram
 
+} {} {}} D:/fpgaprjs/cpu4/hdl/top.v {1 {vlog -work work +incdir+D:/fpgaprjs/cpu4/hdl D:/fpgaprjs/cpu4/hdl/top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top
+
+Top level modules:
+	top
+
 } {} {}} D:/fpgaprjs/cpu4/hdl/dffs.v {1 {vlog -work work +incdir+D:/fpgaprjs/cpu4/hdl +incdir+D:/fpgaprjs/cpu4/hdl D:/fpgaprjs/cpu4/hdl/dffs.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module sirv_gnrl_dffl
@@ -22,13 +29,6 @@ Top level modules:
 	sirv_gnrl_dffl
 	sirv_gnrl_dfflr
 	sirv_gnrl_dffr
-
-} {} {}} D:/fpgaprjs/cpu4/hdl/top.v {1 {vlog -work work +incdir+D:/fpgaprjs/cpu4/hdl D:/fpgaprjs/cpu4/hdl/top.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module top
-
-Top level modules:
-	top
 
 } {} {}} D:/fpgaprjs/cpu4/hdl/cpu4_maindec.v {1 {vlog -work work +incdir+D:/fpgaprjs/cpu4/hdl D:/fpgaprjs/cpu4/hdl/cpu4_maindec.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -44,6 +44,13 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	cpu4_sl2
 
+} {} {}} D:/fpgaprjs/cpu4/hdl/cpu4_alu.v {1 {vlog -work work +incdir+D:/fpgaprjs/cpu4/hdl D:/fpgaprjs/cpu4/hdl/cpu4_alu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cpu4_alu
+
+Top level modules:
+	cpu4_alu
+
 } {} {}} D:/fpgaprjs/cpu4/hdl/cpu4_controller.v {1 {vlog -work work +incdir+D:/fpgaprjs/cpu4/hdl D:/fpgaprjs/cpu4/hdl/cpu4_controller.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module cpu4_controller
@@ -57,13 +64,6 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
 Top level modules:
 	cpu4_mux2
-
-} {} {}} D:/fpgaprjs/cpu4/testbenches/top_tb.v {1 {vlog -work work D:/fpgaprjs/cpu4/testbenches/top_tb.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module top_tb
-
-Top level modules:
-	top_tb
 
 } {} {}} D:/fpgaprjs/cpu4/hdl/cpu4_regfile.v {1 {vlog -work work +incdir+D:/fpgaprjs/cpu4/hdl D:/fpgaprjs/cpu4/hdl/cpu4_regfile.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -109,6 +109,13 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
 Top level modules:
 	cpu4_regfile_tb
+
+} {} {}} D:/fpgaprjs/cpu4/systhesis/cpu4_ram_2port.v {1 {vlog -work work D:/fpgaprjs/cpu4/systhesis/cpu4_ram_2port.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cpu4_ram_2port
+
+Top level modules:
+	cpu4_ram_2port
 
 } {} {}} D:/fpgaprjs/cpu4/testbenches/cpu4_ram_tb.v {1 {vlog -work work D:/fpgaprjs/cpu4/testbenches/cpu4_ram_tb.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
